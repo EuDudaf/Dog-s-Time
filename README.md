@@ -27,7 +27,7 @@ Valorizamos a contribuição da comunidade para enriquecer nosso site. Aqui est�
 
 ## Contato
 
-Se você tiver alguma dúvida, sugestão ou apenas quiser dizer "olá", sinta-se à vontade para nos contatar através do e-mail contato@sitodecachorros.com ou pelas redes sociais.
+Se você tiver alguma dúvida, sugestão ou apenas quiser dizer "olá", sinta-se à vontade para nos contatar através do e-mail maria.ferreira.sse@gmail.com ou pelas redes sociais.
 
 Obrigado por visitar o Site de Cachorros e fazer parte da nossa comunidade! Esperamos que você aproveite o conteúdo e encontre tudo o que precisa para cuidar e se inspirar com seus amigos peludos de quatro patas.
 
