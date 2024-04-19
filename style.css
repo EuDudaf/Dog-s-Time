@@ -1,0 +1,15 @@
+body {
+    background-color: #db89eb;
+    color: white;
+}
+
+h1 {
+    text-shadow: 0.1em 0.1em #707070;
+    font-size: 7rem;
+    text-align: center;
+}
+
+img {
+    width: 30%;
+    margin-left: 35%;
+}
